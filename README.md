@@ -1,9 +1,8 @@
-# TP2 Concurrentes
+# Freddo-GPT
 
-## Video presentacion
+Trabajo practico hecho para la materia Programacion Concurrente de la Facultad de Ingenieria de la Universidad de Buenos Aires.
 
-Para ver el video haga click [aqui](https://drive.google.com/file/d/1jqvpdIxZ7EVk55nawFf5jKFNel1yzoiT/view?usp=sharing)
-
+La consigna del Trabajo puede encontrarse [aqui](https://concurrentes-fiuba.github.io/2024_1C_tp2.html)
 
 ### Comandos de ejecución
 
