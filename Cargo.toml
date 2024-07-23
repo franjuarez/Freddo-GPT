@@ -1,0 +1,26 @@
+[package]
+name = "tp2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix = "0.13" # o 13
+actix-rt = "2.0"
+tokio = { version = "1", features = ["full"] }
+tokio-macros = { version = "0.2.0-alpha.6" }
+tokio-stream = { version = "^0.1.14", features = ["io-util"] }
+colored = "2.0.4"
+serde_json = "=1.0.1"
+serde = { version = "1.0", features = ["derive"] }
+uuid = { version = "1.2", features = ["v4"] }
+rand = "0.8.5"
+
+[[bin]]
+name = "robot"
+path = "src/robot/main.rs"
+
+[[bin]]
+name = "screen"
+path = "src/screen/main.rs"

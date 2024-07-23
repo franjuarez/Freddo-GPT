@@ -1,0 +1,6 @@
+{"Cucurucho":["Chocolate",250]}
+{"Cuarto":[["Chocolate",125],["Vanilla",125]]}
+{"Cucurucho":["Chocolate",250]}
+{"Medio":[["Chocolate",166],["Vanilla",166],["Mint",166]]}
+{"Cucurucho":["Chocolate",250]}
+{"Kilo":[["Chocolate",250],["Vanilla",250],["Mint",250],["DulceDeLeche",250]]}
