@@ -4,12 +4,13 @@ Trabajo practico hecho para la materia Programacion Concurrente de la Facultad d
 
 La consigna del Trabajo puede encontrarse [aqui](https://concurrentes-fiuba.github.io/2024_1C_tp2.html)
 
-### Comandos de ejecución
+### Comandos para la ejecución
 
 Para definir la maxima cantidad de Robots y de Screens en el programa se deberan modificar las variables en el archivo `config.rs`:
 - `MAX_NUMBER_OF_SCREENS`: Cantidad maxima de pantallas
 - `MAX_NUMBER_OF_ROBOTS`: Cantidad maxima de robots
 
+# Diseño
 
 ## Screens
 
